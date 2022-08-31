@@ -1,0 +1,27 @@
+body {
+  margin: 3%;
+}
+
+p {
+  margin-bottom: 0.3em;
+}
+
+.text-highlight {
+  color: #00b3c9;
+}
+
+a,
+a:visited {
+  color: #00b3c9;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #008292;
+}
+
+img.myCenterImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
